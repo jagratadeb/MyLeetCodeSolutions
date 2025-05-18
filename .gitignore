@@ -1,0 +1,7 @@
+Test/
+Leetcode/
+.vscode/
+*.exe
+*.out
+tempCodeRunnerFile.c
+tempCodeRunnerFile.cpp
