@@ -9,12 +9,16 @@ This repository contains my solutions to various LeetCode problems, organized by
 - `Easy/` - Solutions to easy-level problems
 - `Medium/` - Solutions to medium-level problems
 
+## Code List
+
+A complete list of all solution codes can be found in the [`CODES_LIST.md`](./CODES_LIST.md) file. This file is updated as new solutions are added.
+
 ## File Naming Convention
 
 Each solution file is named as follows:
 
 ```
-<problem_number><problem_name>.c
+<problem_number><problem_name><file_extension>
 ```
 
 For example:
