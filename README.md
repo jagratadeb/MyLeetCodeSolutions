@@ -6,8 +6,8 @@ This repository contains my solutions to various LeetCode problems, organized by
 
 ## Directory Structure
 
-- `Easy/` - Solutions to easy-level problems
-- `Medium/` - Solutions to medium-level problems
+- [`Easy/`](./Easy/) - Solutions to easy-level problems
+- [`Medium/`](./Medium/) - Solutions to medium-level problems
 
 ## Code List
 
