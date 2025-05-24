@@ -11,6 +11,7 @@ bool isAnagram(char *s, char *t)
     }
 
     // Create a frequency array for all ASCII characters
+    // Will work with H[128] but that will be limited to (A-Z,a-z,0-9,!@#$%^&*())
     int H[256] = {0};
     int i;
 
