@@ -4,6 +4,7 @@ This file contains a list of all the LeetCode solution codes present in this rep
 
 ## Easy
 - 0001TwoSum.c
+- 0242ValidAnagram.c
 
 ## Medium
 - 0167TwoSum2.c
